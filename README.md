@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**himanshukj17122000/himanshukj17122000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working with CenturyLink Corporation as a SWE Intern 
 - 🌱 I’m currently learning Cloud Computing and Data Analysis using BigQuery
@@ -11,4 +9,4 @@
 - 📫 How to reach me: himanshu.jain@duke.edu
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I had my first book published a few years back. You can find it [here](https://www.amazon.in/Friendship-Beyond-Borders-Ayela-Chughtai-ebook/dp/B07G797MF7)
--->
+
