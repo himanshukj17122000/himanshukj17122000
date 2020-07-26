@@ -4,7 +4,7 @@
 - 🔭 I’m currently working with CenturyLink Corporation as a SWE Intern 
 - 🌱 I’m currently learning Cloud Computing and Data Analysis using BigQuery
 - 👯 I’m looking to collaborate on ML and Web-Development Projects
-- 🤔 I’m looking for help with Software Engineering Internships
+- 🤔 I’m looking for help with Software Engineering Internships/Jobs
 - 💬 Ask me about anything related to India and America (soon)
 - 📫 How to reach me: himanshu.jain@duke.edu
 - 😄 Pronouns: he/him/his
