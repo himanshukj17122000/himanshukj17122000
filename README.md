@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working with CenturyLink Corporation as a SWE Intern 
+- 🔭 I’m currently working as an Android Developer for the Big Ideas Lab at Duke University
 - 🌱 I’m currently learning Cloud Computing and Data Analysis using BigQuery
 - 👯 I’m looking to collaborate on ML and Web-Development Projects
 - 🤔 I’m looking for help with Software Engineering Internships/Jobs
