@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-Chen%20Stanilovsky-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hkj17/) [![Gmail Badge](https://img.shields.io/badge/-chen.stanilovsky@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:chen.stanilovsky@gmail.com)
 
 - 🔭 I’m currently working as an Android Developer for the Big Ideas Lab at Duke University
 - 🌱 I’m currently learning Cloud Computing and Data Analysis using BigQuery
