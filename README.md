@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-Himanshu%20Jain-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hkj17/) [![Outlook Badge](https://img.shields.io/badge/-himanshukj17122000@gmail.com-c14438?style=flat-square&logo=Outlook&logoColor=white)](mailto:himanshukj17122000@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Himanshu%20Jain-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hkj17/)
 
 - 🔭 I’m currently working as an Android Developer for the Big Ideas Lab at Duke University
 - 🌱 I’m currently learning Cloud Computing and Data Analysis using BigQuery
