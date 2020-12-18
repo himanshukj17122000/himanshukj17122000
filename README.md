@@ -10,3 +10,4 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I had my first book published a few years back. You can find it [here](https://www.amazon.in/Friendship-Beyond-Borders-Ayela-Chughtai-ebook/dp/B07G797MF7)
 
+[![henchik's github stats](https://github-readme-stats.vercel.app/api?username=himanshukj17122000)](https://github.com/himanshukj17122000)
